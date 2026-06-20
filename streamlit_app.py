@@ -46,7 +46,7 @@ logger = logging.getLogger(__name__)
 _PAGE_SIZE_FRONT: int = 50
 _PAGE_SIZE_ADMIN: int = 20
 _POST_COOLDOWN_SECONDS: int = 10
-_MAX_CONTENT_LENGTH: int = 300
+_MAX_CONTENT_LENGTH: int = 1000
 
 
 # ─── 主題色定義 ────────────────────────────────────────────────────────────────
