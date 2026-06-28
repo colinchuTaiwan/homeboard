@@ -65,6 +65,12 @@ BOARDS: list[dict] = [
         "db_path":  "aiboard",
         "theme":    "tech",
     },
+    {
+        "id":       "stockboard",
+        "name":     "📈 股票討論區",
+        "db_path":  "stockboard",
+        "theme":    "stock",
+    },
 ]
 
 # id → board dict 查找表
